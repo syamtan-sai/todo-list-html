@@ -1,10 +1,11 @@
 # CODTECH-Task-1
-##TO -DO LIST WEB APPLICATION##
+## TO-DO LIST WEB APPLICATION##
 
 **Name:** Syamtan Sai Yadav Bontha
 **Company:** CODTECH IT SOLUTIONS
 **ID:** CT08DS5312
 **Domain:** Web Development
+**Mentor:** Muzammil Ahmed
 **Duration:** from JULY 20th, 2024 to AUGUST 20th, 2024.
 
 # To-Do List Web App
