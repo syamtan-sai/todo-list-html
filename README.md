@@ -18,8 +18,7 @@ It allows users to **add tasks** and **delete tasks** with a minimal interface.
 ---
 
 ## 🚀 Live Demo
-[View Project Here](#) _(Add your GitHub Pages link here)_
-
+[View Project Here](https://syamtan-sai.github.io/todo-list-html/)
 ---
 
 ## 📸 Screenshot
